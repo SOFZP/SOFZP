@@ -1,3 +1,6 @@
+<!-- og:image fallback -->
+<img src="https://cryptovik.info/vikbannerplusmin2.png" alt="Banner" style="display:none"/>
+
 <!-- Banner -->
 <p align="center">
   <img src="https://cryptovik.info/vikbannerplusmin2.png" width="100%" alt="Cryptovik Banner"/>
