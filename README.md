@@ -55,7 +55,7 @@ Validator operator since 2021. I focus on building useful tools for the Solana e
 
 ## 🖥️ About My Validator
 
-<p align="center">
+<p align="left">
   <a href="https://stakewiz.com/validator/Fhks5gukimP6vxKYbRY4V1aw888EgHhpdDSscD9V6bub"><img src="https://img.shields.io/badge/Stakewiz-Cryptovik-blue?logo=solana" alt="Stakewiz Validator"/></a>
   <a href="https://cryptovik.info"><img src="https://img.shields.io/badge/Website-cryptovik.info-00cc99?logo=firefox-browser"/></a>
   <a href="https://twitter.com/hvzp3"><img src="https://img.shields.io/badge/Twitter-@hvzp3-blue?logo=twitter"/></a>
