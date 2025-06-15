@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://cryptovik.info/vikbannerplusmin.png" width="100%" alt="Cryptovik Banner"/>
+  <img src="https://cryptovik.info/vikbannerplusmin2.png" width="100%" alt="Cryptovik Banner"/>
 </p>
 
 ---
