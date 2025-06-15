@@ -1,5 +1,3 @@
-<!-- og:image fallback -->
-<img src="https://cryptovik.info/vikbannerplusmin2.png" alt="Banner" style="display:none"/>
 
 <!-- Banner -->
 <p align="center">
