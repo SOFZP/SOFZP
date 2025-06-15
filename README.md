@@ -35,7 +35,11 @@ Validator operator since 2021. I focus on building useful tools for the Solana e
 | Repository | Purpose |
 |------------|---------|
 | [Solana Stake Pools Research](https://github.com/SOFZP/Solana-Stake-Pools-Research) | Analytical guide to major stake pools, delegation logic, and APIs |
-| Legacy tools | [see-your-solana-node-stake](https://github.com/SOFZP/see-your-solana-node-stake), [v2](https://github.com/SOFZP/see-your-solana-node-stake-v-2), [show-solana-node-info_v2](https://github.com/SOFZP/show-solana-node-info_v2) |
+
+### 🗂 Archive
+| Legasy Tools |
+|--------------|
+| [see-your-solana-node-stake](https://github.com/SOFZP/see-your-solana-node-stake), [v2](https://github.com/SOFZP/see-your-solana-node-stake-v-2), [show-solana-node-info_v2](https://github.com/SOFZP/show-solana-node-info_v2) |
 
 ---
 
