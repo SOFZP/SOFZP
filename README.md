@@ -60,6 +60,9 @@ Validator operator since 2021. I focus on building useful tools for the Solana e
   <a href="https://stakewiz.com/validator/Fhks5gukimP6vxKYbRY4V1aw888EgHhpdDSscD9V6bub"><img src="https://img.shields.io/badge/Stakewiz-Cryptovik-blue?logo=solana" alt="Stakewiz Validator"/></a>
   <a href="https://cryptovik.info"><img src="https://img.shields.io/badge/Website-cryptovik.info-00cc99?logo=firefox-browser"/></a>
   <a href="https://twitter.com/hvzp3"><img src="https://img.shields.io/badge/Twitter-@hvzp3-blue?logo=twitter"/></a>
+  <a href="https://arena.colosseum.org/profiles/vb_zp">
+  <svg xmlns="http://www.w3.org/2000/svg" width="108" height="20" role="img" aria-label="colosseum: vb_zp"><title>colosseum: vb_zp</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="108" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="55" height="20" fill="#555"/><rect x="55" width="53" height="20" fill="#007ec6"/><rect width="108" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">colosseum</text><text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">colosseum</text><text aria-hidden="true" x="805" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="430">vb_zp</text><text x="805" y="140" transform="scale(.1)" fill="#fff" textLength="430">vb_zp</text></g></svg>
+    </a>
 </p>
 
 My validator **Cryptovik** is operated in a decentralized, high-performance datacenter with **custom hardware and performance-tuned configurations**.
