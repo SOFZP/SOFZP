@@ -14,43 +14,33 @@ Validator operator since 2021. I focus on building useful tools for the Solana e
 
 ## 🧩 My Focus Areas
 
-- 🛠️ Developing CLI and web-based tools for Solana validators
-- 📡 Monitoring systems for network health and validator safety
-- 📘 Public research & technical docs on stake pools and delegation
+- ✅ Building & maintaining live tools for the Solana ecosystem (dashboards, CLI)
+- 📊 Operating the Solana Stake Pools Dashboard and its public data hub
+- 📡 Creating monitoring systems for network health and validator safety
 - 🤝 Open collaboration and sharing of validator best practices
-- 🌍 Active member of the Solana Ukrainian local community (meetups, workshops, validator groups)
+- 🇺🇦 Active member of the Solana Ukrainian local community
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects & Tools
 
-### ✅ Actively Maintained
+Here are the key projects I've built and actively maintain for the Solana community.
+
+* ### 📊 **[Solana Stake Pools Dashboard](http://cryptovik.info/solana-stakepools-dashboard)**
+    A live web application that provides real-time eligibility and performance scoring for validators across major Solana stake pools. **This is my flagship project.**
+
+* ### ⚙️ **[Stake Pools Checker (CLI)](https://github.com/SOFZP/Solana-Stake-Pools-Checker)**
+    A command-line tool for developers and validators to automate eligibility checks. It supports JSON output for easy integration.
+
+* ### 🧠 **[Solana Stake Pools Research](https://github.com/SOFZP/Solana-Stake-Pools-Research)**
+    The foundational research and data hub that powers the dashboard. It contains a detailed breakdown of delegation criteria for 12+ stake pools.
+
+### 🧰 Other Tools
 
 | Project | Description |
-|--------|-------------|
-| [CVK – See Your Stake](https://github.com/SOFZP/CVK-See-Your-Stake-v3.0) | Bash tool for viewing stake accounts with breakdowns by status and authority |
-| [Solana Delinquency Alert Bot](https://github.com/SOFZP/Solana-Delinquency-Alert-Bot) | Lightweight Telegram bot for instant validator delinquency alerts |
-
-### 🧠 Research & Infrastructure
-
-| Repository | Purpose |
-|------------|---------|
-| [Solana Stake Pools Research](https://github.com/SOFZP/Solana-Stake-Pools-Research) | Analytical guide to major stake pools, delegation logic, and APIs |
-
-### 🗂 Archive
-| Legasy Tools |
-|--------------|
-| [see-your-solana-node-stake](https://github.com/SOFZP/see-your-solana-node-stake), [v2](https://github.com/SOFZP/see-your-solana-node-stake-v-2), [show-solana-node-info_v2](https://github.com/SOFZP/show-solana-node-info_v2) |
-
----
-
-## 🛠️ In Progress
-
-- 🧮 Stake Pool Eligibility Checker (Jito, Vault, Shinobi, Jpool…)
-- 📊 Unified validator scoring fetcher from public APIs
-- 🌐 Web dashboards for See Your Stake tool and Pools analytics
-- 🧪 Hackathon participation and Solana ecosystem research
-- 📖 Investigating validator efficiency, MEV risk, and stake behavior
+|---|---|
+| [CVK – See Your Stake](https://github.com/SOFZP/CVK-See-Your-Stake-v3.0) | Bash tool for viewing stake accounts with breakdowns by status and authority. |
+| [Solana Delinquency Alert Bot](https://github.com/SOFZP/Solana-Delinquency-Alert-Bot) | Lightweight Telegram bot for instant validator delinquency alerts. |
 
 ---
 
