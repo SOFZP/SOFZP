@@ -27,10 +27,10 @@ Validator operator since 2021. I focus on building useful tools for the Solana e
 Here are the key projects I've built and actively maintain for the Solana community.
 
 * ### 📊 **[Solana Stake Pools Dashboard](http://cryptovik.info/solana-stakepools-dashboard)**
-    A live web application that provides real-time eligibility and performance scoring for validators across major Solana stake pools. **This is my flagship project.**
+    A live web application that provides stakepools data and soon will provide real-time eligibility and performance scoring for validators across major Solana stake pools. **For now this is my flagship project.**
 
 * ### ⚙️ **[Stake Pools Checker (CLI)](https://github.com/SOFZP/Solana-Stake-Pools-Checker)**
-    A command-line tool for developers and validators to automate eligibility checks. It supports JSON output for easy integration.
+    A command-line tool for developers and validators to automate pools checks. It supports JSON output for easy integration.
 
 * ### 🧠 **[Solana Stake Pools Research](https://github.com/SOFZP/Solana-Stake-Pools-Research)**
     The foundational research and data hub that powers the dashboard. It contains a detailed breakdown of delegation criteria for 12+ stake pools.
